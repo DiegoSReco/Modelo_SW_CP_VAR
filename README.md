@@ -1,7 +1,7 @@
 
-<h2> <strong> <span style="color: lightblue"> Modelo Prónostico de Recaudación por Áreas Generadoras
+<h2> <strong> <span style="color: lightblue"> VAR and PCA for the Tax Series Forecast
 </span>
 </strong>
 </h2>
 
-El objetivo de este repositorio es el pronóstico de la recaudación de ingresos tributatarios desglosado por la áreas generadoras que los conforman.
+The objective of this repository is the forecast of tax revenue collection broken down by the generating areas that comprise them.
